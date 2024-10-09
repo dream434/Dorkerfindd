@@ -9,8 +9,8 @@ class couleur:
 		  		
 
 figlet = Figlet(font='slant')
-result = figlet.renderText("Ys jhonson")
-dak= figlet.renderText("Le wana")
+result = figlet.renderText("jhonson")
+dak= figlet.renderText("jon")
 print(couleur.OK+result)
 print(couleur.OK+dak)
 try :
